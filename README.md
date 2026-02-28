@@ -9,8 +9,6 @@ Current functionality:
 ## Project Structure
 
 ```text
-RAG System/
-  PDF Reader/
     main.py
     book.pdf
     sample_data.txt
@@ -53,3 +51,8 @@ The script runs two functions:
 - Clear output files before each run or switch to write mode (`"w"`) when needed.
 - Split extracted text into chunks for embedding.
 - Add a vector store (FAISS/Chroma) and retrieval layer to complete the RAG pipeline.
+
+
+---
+This README file is written by AI.
+---
