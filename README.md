@@ -54,5 +54,5 @@ The script runs two functions:
 
 
 ---
-This README file is written by AI.
+This README file was written by AI.
 
